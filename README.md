@@ -16,6 +16,18 @@ Outline:
   -Fluid Dynamics
     -Inert Gas Law
   -Thermodynamics
+  -Electricity
+    -current/resistance/voltage intro
+    -alternating current vs direct current
+    -Electric potential concept
+    -solving circuits in series
+    -solving circuits in parallel
+    -solving more complex circuits with both series and parallel part of their composition
+    -Karnaugh maps to find most efficient blueprint for logic gates in circuit
+    -Pulse-Width Modulation to vary power and/or speed of electrical motor/device with analogous input
+  -Magnetism
+    -emf
+    -"F-I-B hand trick" (force vs current vs magnetic field vector relations by taking hand and emulating the Fonze - saying "ayeeee!" is optional but never a bad move 9/10)
   -Wave Science
     -Transverse waves (ie. light/electromagnetic)
     -Snell's Law
